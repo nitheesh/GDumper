@@ -4,8 +4,13 @@ GDumper
 A graphical tool for mysql dump
 
 -----------
-Requirements
+Install Requirements
 
-python-mysqldb
+sudo apt-get install python-mysqldb
+
+-----------
+
+Works best on Ubuntu 13.04 and above.
+
 
 
